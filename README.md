@@ -1,4 +1,4 @@
-# DMS — Dispensary Management System
+# HMS — Hospital Management System
 ### Occupational Health Centre (OHC)
 
 A complete, production-ready web application for managing an industrial OHC dispensary.
