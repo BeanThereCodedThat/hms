@@ -1,0 +1,2 @@
+package com.dms.enums;
+public enum NotificationType { VACCINATION_DUE, CHECKUP_DUE, MEDICINE_EXPIRY, LOW_STOCK, OVERDUE_VACCINATION, OVERDUE_CHECKUP }

@@ -1,0 +1,2 @@
+package com.dms.enums;
+public enum VisitStatus { REGISTERED, IN_CONSULTATION, PRESCRIPTION_ISSUED, MEDICINES_DISPENSED, CLOSED }

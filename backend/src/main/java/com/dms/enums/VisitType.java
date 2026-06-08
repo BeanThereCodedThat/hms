@@ -1,0 +1,2 @@
+package com.dms.enums;
+public enum VisitType { OPD_CONSULTATION, FIRST_AID, MINOR_ACCIDENT, FOLLOW_UP, VACCINATION, MEDICAL_CHECKUP }

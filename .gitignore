@@ -1,0 +1,31 @@
+﻿# Environment variables
+.env
+.env.*
+
+# Keep template env file
+!.env.example
+
+# IDE files
+.idea/
+.vscode/
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Logs
+*.log
+
+# Build outputs
+dist/
+build/
+target/
+
+# OS files
+.DS_Store
+Thumbs.db
